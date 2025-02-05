@@ -1,5 +1,5 @@
-- [Home](#)
-- [How To](HowTo.md)
-- [Sample](Sample.md)
+- [Home](https://mace-rpg.xyz)
+- [Introduction](Introduction.md)
+- [Character Creation](Character_Creation.md)
 ---
 - [Changelog](Changelog.md)
