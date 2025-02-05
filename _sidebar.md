@@ -1,4 +1,4 @@
-- [Read Me](README.md)
+- [Home](README.md)
 - [How To](HowTo.md)
 - [Sample](Sample.md)
 ---

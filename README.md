@@ -1,6 +1,6 @@
-# System Reference Document Template For RPG's
+# MACE RPG
 
-This work is based on the [DOCSIFY](https://docsify.js.org/) magical site generator project.
+MACE (Modular Adventure Campaign Engine) is a generic multi-genre tabletop adventure game.
 
 
 ## Work in Progress
@@ -10,20 +10,10 @@ This is a work in progress and is being updated.
 
 ## Why this project and who am I?
 
-G'day, I'm known as Coweater and I'm the lead designer for an indie RPG [7th Extinction](https:7thExtinctionrpg.com). I needed something simple to create and host my SRD and after searching the web and a lot of trial & error I settled on Docsify, thanks Gulluth for your previous work. Knowing that not everyone is technically minded I wanted to do more than point indie developers to Docsify and say 'use this'.
+Hello, my name is Justin H. and I am tabletop referee from Los Angeles, California. This document serves as a tool for a generic ruleset I use for running lots of adveture games, allowing me to search for moster stats, spells, etc. as well as to provide rules references to my players.
 
-So the plan is to continue to tweak and develop this, ensuring to keep it a simple project that any indie rpg can use to create great looking SRD online with zero cost and little technical knowledge. 
+## License
 
-
-## Acknowledgments 
-
-1. This work uses the [DOCSIFY](https://docsify.js.org/) magical site generator project.
-2. [Gulluth](https://gist.github.com/Gulluth) guide requires some technical knowledge, it's where I started this journey so thank you to them!
-3. Docsify Dark/light theme used in this repo is based on (https://docsify-darklight-theme.boopathikumar.me/#/)
-4. Big shout out to [bronthlke](https://github.com/bronthulke) for changes to Hamburger placement, overriding styles for Fonts
-5. [Fzankl's](https://github.com/fzankl) Flexible Alerts plugin (https://github.com/fzankl/docsify-plugin-flexible-alerts)
-6. [Erickjx's](https://github.com/erickjx) Fontawesome plugin (https://github.com/erickjx/docsify-fontawesome)
-7. Added direct Material Icons [Google](https://fonts.google.com/icons) support
-
+ MACE © 2025 by Justin Hamilton is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 
